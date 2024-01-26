@@ -2,7 +2,7 @@
 
 <br>
 
-Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Fransisco. I have 8 years experience working in Ecommerce & Blockchain across Design, Development & Project Management.
+Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Francisco. I have 8 years experience working in Ecommerce & Blockchain across Design, Development & Project Management.
 
 <br>
 
