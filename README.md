@@ -18,7 +18,9 @@ Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Francisco
 - Node.js
 - Express
 - MongoDB
-- PostgresSQL
+- Prisma
+- SupaBase
+- Convex
 
 <br>
 
