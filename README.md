@@ -27,7 +27,6 @@ Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Francisco
 ### 💻 Current Live Projects
 ---
 
-- Splash Screen: [https://www.splashscreen.io/](https://www.splashscreen.io/)
 - Alkimi Labs: [https://labs.alkimi.org/](https://labs.alkimi.org/)
 - JennyCo: [https://www.jennyco.io/](https://www.jennyco.io/)
 - Alex The Alkimist: [https://www.alexthealkimist.com/](https://www.alexthealkimist.com/)
