@@ -1,8 +1,8 @@
-![Morgan Selbekk](https://res.cloudinary.com/dtjasyr7k/image/upload/v1706300545/Group_5_1_veru7i.png)
+![Morgan Selbekk](https://res.cloudinary.com/dtjasyr7k/video/upload/v1731900559/picAI-v2_rpmngh.mp4)
 
 <br>
 
-Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Francisco. I have 8 years experience working in Ecommerce & Blockchain across Design, Development & Project Management.
+Hi there 👋 I’m Morgan and I’m a Front-end Engineer living in San Francisco. I have 8 years experience working in Ecommerce & Blockchain across Design, Development & Project Management.
 
 <br>
 
@@ -12,11 +12,11 @@ Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Francisco
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
 - Next.js
 - Tailwind
 - Node.js
-- Express
 - MongoDB
 - Prisma
 - SupaBase
@@ -27,6 +27,7 @@ Hi there 👋 I’m Morgan and I’m a Software Engineer living in San Francisco
 ### 💻 Current Live Projects
 ---
 
+- PicAI: [https://www.picai.so/](https://www.picai.so/)
 - Selbekk Studio: [https://www.selbekk.studio/](https://www.selbekk.studio/)
 - Advanced Ortho: [https://www.advancedortholabsf.com/](https://www.advancedortholabsf.com/)
 - Alkimi Labs: [https://labs.alkimi.org/](https://labs.alkimi.org/)
