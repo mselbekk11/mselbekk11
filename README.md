@@ -1,4 +1,4 @@
-![Morgan Selbekk](https://res.cloudinary.com/dtjasyr7k/video/upload/v1731900559/picAI-v2_rpmngh.mp4)
+![Morgan Selbekk](https://res.cloudinary.com/dtjasyr7k/image/upload/v1731979230/ms_ewcr0m.png)
 
 <br>
 
